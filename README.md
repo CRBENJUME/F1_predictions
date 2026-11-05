@@ -90,7 +90,4 @@ Explore Deep Learning architectures for non-linear pace modeling.
 
 Social Updates: Follow @mar_antaya on Instagram and TikTok for live prediction releases prior to each 2026 race weekend!
 
-## 📜 License
-This project is licensed under the MIT License.
-
 🏎️ Start predicting F1 races like a data scientist! 🚀

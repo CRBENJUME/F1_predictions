@@ -63,8 +63,9 @@ Execute the script corresponding to the upcoming Grand Prix weekend:
 ``` Bash
 python3 prediction1.py
 ```
-Sample Output
-Plaintext
+### Sample Output
+
+```text
 ==================================================
  PREDICTED FINISHING ORDER: 2026 Australian Grand Prix
 ==================================================
@@ -74,6 +75,7 @@ Pos  | Driver               | Team            | Grid   | Pred Time (s)
 2    | Max Verstappen       | Red Bull Racing | 2      | 5242.450s     
 3    | Lando Norris         | McLaren         | 3      | 5245.890s     
 --------------------------------------------------------------------
+```
 ## 🔍 Model Error (MAE): 3.22 seconds
 ==================================================
 ## 📈 Model Performance
